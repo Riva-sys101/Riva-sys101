@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Riva-sys101
-- 👀 I’m interested in ...learning abt programming, html, css, c++, one day i'll make my own indie horror game
 - 🌱 I’m currently learning ...HTML, CSS maybe even C++ 
 - ⚡ Fun fact: ...im a minor bbg
